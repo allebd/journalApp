@@ -1,4 +1,4 @@
-package com.example.alleb_d.journalapp;
+package com.alleb_d.journalapp;
 
 import org.junit.Test;
 

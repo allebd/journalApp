@@ -1,4 +1,4 @@
-package com.example.alleb_d.journalapp;
+package com.alleb_d.journalapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.alleb_d.journalapp", appContext.getPackageName());
+        assertEquals("com.alleb_d.journalapp", appContext.getPackageName());
     }
 }

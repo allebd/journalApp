@@ -1,4 +1,4 @@
-package com.example.alleb_d.journalapp;
+package com.alleb_d.journalapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
